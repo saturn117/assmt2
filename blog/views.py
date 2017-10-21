@@ -17,7 +17,7 @@ def post_list(request):
     tone_analyzer = ToneAnalyzerV3(
         username='89a204be-399c-4cda-a6a2-11cb49c54316',
         password='gbkIr7YSzXY2',
-        version='2016-05-19 ')
+        version='2016-05-19')
 
     language_translator = LanguageTranslator(
         username='986f0ad4-f03b-4cfb-b192-7e3317acedf2',
